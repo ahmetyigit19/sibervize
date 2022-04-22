@@ -1,0 +1,16 @@
+C:\Users\sema\source\repos\siberodev\bin\Debug\net5.0\siberodev.exe
+C:\Users\sema\source\repos\siberodev\bin\Debug\net5.0\siberodev.deps.json
+C:\Users\sema\source\repos\siberodev\bin\Debug\net5.0\siberodev.runtimeconfig.json
+C:\Users\sema\source\repos\siberodev\bin\Debug\net5.0\siberodev.runtimeconfig.dev.json
+C:\Users\sema\source\repos\siberodev\bin\Debug\net5.0\siberodev.dll
+C:\Users\sema\source\repos\siberodev\bin\Debug\net5.0\ref\siberodev.dll
+C:\Users\sema\source\repos\siberodev\bin\Debug\net5.0\siberodev.pdb
+C:\Users\sema\source\repos\siberodev\obj\Debug\net5.0\siberodev.csproj.AssemblyReference.cache
+C:\Users\sema\source\repos\siberodev\obj\Debug\net5.0\siberodev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sema\source\repos\siberodev\obj\Debug\net5.0\siberodev.AssemblyInfoInputs.cache
+C:\Users\sema\source\repos\siberodev\obj\Debug\net5.0\siberodev.AssemblyInfo.cs
+C:\Users\sema\source\repos\siberodev\obj\Debug\net5.0\siberodev.csproj.CoreCompileInputs.cache
+C:\Users\sema\source\repos\siberodev\obj\Debug\net5.0\siberodev.dll
+C:\Users\sema\source\repos\siberodev\obj\Debug\net5.0\ref\siberodev.dll
+C:\Users\sema\source\repos\siberodev\obj\Debug\net5.0\siberodev.pdb
+C:\Users\sema\source\repos\siberodev\obj\Debug\net5.0\siberodev.genruntimeconfig.cache
